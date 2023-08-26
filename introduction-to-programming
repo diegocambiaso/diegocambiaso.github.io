@@ -1,0 +1,249 @@
+## Introduction to programming, basic concepts
+## Learn how to program with Python
+
+Welcome to my free course to learn how to program with Python! In this course, you will learn the basics of Python programming, including variables, control flow, functions and data structures. You will also learn how to write simple Python code.
+My name is Diego Cambiaso and I am a software developer, UX Designer and Journalist.
+
+This course is designed for beginners, so no previous programming knowledge is required. 
+
+The course will be taught in a hands-on manner, with many examples and exercises. Students will have the opportunity to practice what they have learned by writing code in Python.
+
+By the end of the course, students will have a solid understanding of the basics of Python programming and will be prepared to continue learning how to program in Python.
+
+We wish you the best in your learning!
+
+Objectives - Python Course
+
+Introductory course to Python programming:
+
+By the end of the course, students will be able to:
+
+Define what Python programming is.
+
+Explain the benefits of learning to program in Python
+
+Describe the basic concepts of Python programming, including variables, control flow, functions, and data structures
+
+Write simple Python code
+
+Execute Python code
+
+The course will be divided into three sections:
+
+Introduction to Python programming.
+
+Basic concepts of Python programming
+
+Writing simple Python code
+
+In the introduction section, students will learn about the basics of Python programming, including what programming is, the different types of programming languages, and the benefits of learning to program in Python.
+
+In the basics section, students will learn about the basics of Python programming, including variables, control flow, functions, and data structures.
+
+In the writing simple code section, students will learn how to write simple code in Python.
+
+The course will be taught in a hands-on manner, with many examples and exercises. Students will have the opportunity to practice what they have learned by writing code in Python.
+
+By the end of the course, students will have a solid understanding of the basics of Python programming and will be prepared to continue learning how to program in Python.
+
+Programming Models:
+
+A programming model is a set of concepts and techniques used to write computer programs. Each programming model has its own strengths and weaknesses, and the right model for a project depends on the specific needs of the project.
+
+Some of the most common programming models include:
+
+Imperative: The imperative paradigm is the most common programming paradigm. It is based on the idea of instructing the computer what to do.
+
+Functional: The functional paradigm is based on the idea of functions. Functions are blocks of code that can be reused in different parts of a program.
+
+Object-oriented: The object-oriented paradigm is based on the idea of objects. Objects are units of code that contain data and behavior.
+
+Logical: The logical paradigm is based on the idea of logic. It is used to solve problems that can be expressed as a series of logical rules.
+
+Declarative: The declarative paradigm is based on the idea of declarations. Declarations are statements about what the program should do, rather than how it should do it.
+
+Programming models can be used in combination with each other. For example, a program could use the imperative paradigm for control logic and the functional paradigm for data processing.
+
+When choosing a programming model, it is important to consider the strengths and weaknesses of each paradigm. The correct paradigm for a project depends on the specific needs of the project.
+
+For example, the imperative paradigm is a good choice for projects that require precise control of the execution flow. The functional paradigm is a good choice for projects that require the processing of large amounts of data. The object-oriented paradigm is a good choice for projects that require the creation of complex user interfaces. The logical paradigm is a good choice for projects that require the resolution of problems that can be expressed as a series of logical rules. The declarative paradigm is a good choice for projects that require the description of data or processes.
+
+It is important to keep in mind that there is no perfect programming model. Each model has its own strengths and weaknesses, and the right model for a project depends on the specific needs of the project.
+What is an algorithm?
+
+An algorithm is a set of instructions that are followed to solve a problem. Algorithms are used in many different fields, including science, engineering, medicine and computer science. In computer science, algorithms are used to create computer programs.
+
+An algorithm is characterized by the following properties:
+
+It is finite: an algorithm must terminate after a finite number of steps.
+
+It is precise: an algorithm must produce the same solution each time it is run with the same input data.
+
+It is clear: an algorithm must be easy to understand by anyone reading it.
+
+It is efficient: an algorithm must use computing resources efficiently.
+
+Algorithms can be represented in many different ways, including:
+
+Computer code: an algorithm can be coded in a computer programming language.
+
+Pseudocode: an algorithm can be written in a pseudocode language, which is a programming language that resembles human language.
+
+Flowchart: An algorithm can be represented as a flowchart, which is a diagram that shows the steps of an algorithm.
+
+Algorithms are an essential part of computer science. They are used to create computer programs, solve problems and make decisions. Algorithms are used in all areas of computer science, including programming, artificial intelligence, data science and computer graphics.
+
+Here are some examples of algorithms:
+
+The binary search algorithm: this algorithm is used to find a value in a sorted list.
+
+The fast sorting algorithm: this algorithm is used to sort a list of elements.
+
+The linear interpolation algorithm: this algorithm is used to find the value of a function at a given point.
+
+Dijkstra's algorithm: this algorithm is used to find the shortest path between two nodes in a network.
+
+Algorithms are a powerful tool used to solve problems efficiently and accurately.
+
+What is programming?
+
+Programming is the process of creating a computer program. A computer program is a set of instructions that tell a computer what to do. Computer programs are used to do a variety of things, including:
+
+Run applications, such as word processors, web browsers, and games.
+
+Control devices, such as robots, airplanes and automobiles.
+
+Store and analyze data, such as numbers, text and images.
+
+Solve problems, such as identifying patterns, making decisions and forecasting.
+
+Programming is a valuable skill that can be used in a variety of fields, including:
+
+Information technology (IT).
+
+Engineering
+
+Science
+
+Finance
+
+Business
+
+Medicine
+
+Education
+
+Entertainment
+
+To program, you need to learn a programming language. A programming language is a set of rules used to write computer code. There are many different programming languages, each with its own strengths and weaknesses. Some popular programming languages include:
+
+Python
+
+Java
+
+C++
+
+JavaScript
+
+PHP
+
+Ruby
+
+Swift
+
+Kotlin
+
+C#
+
+Once you have learned a programming language, you can start writing computer programs. Computer programs can be written in a text editor or in an integrated development environment (IDE). An IDE is a tool that facilitates writing, debugging and running computer programs.
+
+Programming is a challenging skill, but it is also very rewarding. When you can create a computer program that works, it is an amazing feeling. Programming is also a very versatile skill, which can be used in a variety of ways.
+What is an algorithm?
+
+An algorithm is a set of instructions that are followed to solve a problem. Algorithms are used in many different fields, including science, engineering, medicine and computer science. In computer science, algorithms are used to create computer programs.
+
+An algorithm is characterized by the following properties:
+
+It is finite: an algorithm must terminate after a finite number of steps.
+
+It is precise: an algorithm must produce the same solution each time it is run with the same input data.
+
+It is clear: an algorithm must be easy to understand by anyone reading it.
+
+It is efficient: an algorithm must use computing resources efficiently.
+
+Algorithms can be represented in many different ways, including:
+
+Computer code: an algorithm can be coded in a computer programming language.
+
+Pseudocode: an algorithm can be written in a pseudocode language, which is a programming language that resembles human language.
+
+Flowchart: An algorithm can be represented as a flowchart, which is a diagram that shows the steps of an algorithm.
+
+Algorithms are an essential part of computer science. They are used to create computer programs, solve problems and make decisions. Algorithms are used in all areas of computer science, including programming, artificial intelligence, data science and computer graphics.
+
+Here are some examples of algorithms:
+
+The binary search algorithm: this algorithm is used to find a value in a sorted list.
+
+The fast sorting algorithm: this algorithm is used to sort a list of elements.
+
+The linear interpolation algorithm: this algorithm is used to find the value of a function at a given point.
+
+Dijkstra's algorithm: this algorithm is used to find the shortest path between two nodes in a network.
+
+Algorithms are a powerful tool used to solve problems efficiently and accurately.
+
+What is programming?
+
+Programming is the process of creating a computer program. A computer program is a set of instructions that tell a computer what to do. Computer programs are used to do a variety of things, including:
+
+Run applications, such as word processors, web browsers, and games.
+
+Control devices, such as robots, airplanes and automobiles.
+
+Store and analyze data, such as numbers, text and images.
+
+Solve problems, such as identifying patterns, making decisions and forecasting.
+
+Programming is a valuable skill that can be used in a variety of fields, including:
+
+Information technology (IT).
+
+Engineering
+
+Science
+
+Finance
+
+Business
+
+Medicine
+
+Education
+
+Entertainment
+
+To program, you need to learn a programming language. A programming language is a set of rules used to write computer code. There are many different programming languages, each with its own strengths and weaknesses. Some popular programming languages include:
+
+Python
+
+Java
+
+C++
+
+JavaScript
+
+PHP
+
+Ruby
+
+Swift
+
+Kotlin
+
+C#
+
+Once you have learned a programming language, you can start writing computer programs. Computer programs can be written in a text editor or in an integrated development environment (IDE). An IDE is a tool that facilitates writing, debugging and running computer programs.
+
+Programming is a challenging skill, but it is also very rewarding. When you can create a computer program that works, it is an amazing feeling. Programming is also a very versatile skill, which can be used in a variety of ways.
